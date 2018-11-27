@@ -1,0 +1,29 @@
+== BOotstrap ==
+"container-fluid" - utiliza toda parte da tela
+"container" - utiliza 80% da tela
+
+< -- Imagem -- >
+
+class="img-fluid" -- Deixa a imagem responsivo;
+class="img-thumbnail" -- Deixa a imagem responsiva e deixa com uma borda;
+class="rounded" -- Deixa imagem com borda aredondada;
+class="mx-auto d-block" -- Deixa a imagem centralizada no layout
+ 
+< -- Imagem -- >
+
+<-- Figuras --->
+Sempre que precisar exibir um pedaço de texto junto a uma imagem, como por exemplo em uma legenda,
+ considere usar uma tag <figure> .
+Use as classes .figure , .figure-img e .figure-caption para fornecer estilos do Bootstrap  as
+ tags <figure> e <figcaption> do HTML5. 
+<-- Figuras --->
+
+<-- Tabela -->
+class="table" -- estilo de tabela padrão bootstrap
+class="table table-sm" -- estilo de tabela - deixa mais proximo o conteudo da tabela
+class="table table-bordered" -- estilo de tabela com todas as linhas separando conteudo
+class="table table-hover" -- estilo de tabela hover - passar o mouse aparece fundo
+class="table table-inverse" -- estilo de tabela preto e branco
+class="table table-striped" -- Estilo de tabela cor sim cor não
+<-- Tabela -->
+
